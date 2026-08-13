@@ -34,6 +34,7 @@ Python Fundamentals
 ├── Lists
 ├── Tuples
 ├── Sets
+├── Dictionary
 └── ...more to come
 ```
 
@@ -76,6 +77,7 @@ Loops                 [DONE]
 Lists                 [DONE]
 Tuples                [DONE]
 Sets                  [DONE]
+Dictionary            [DONE]
 Functions             [NEXT]
 ```
 
